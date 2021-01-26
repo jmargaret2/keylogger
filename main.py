@@ -13,6 +13,7 @@ def while_release(key):
     if key == Key.esc:
         return False
 
+
 # initialize instance of key listener, which responds to key press/release
 with Listener(on_press=while_press, on_release=while_release) as listener:
     listener.join()
