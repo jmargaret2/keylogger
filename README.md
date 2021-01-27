@@ -76,6 +76,8 @@ A keylogger built with Python that will write keystrokes into a file named ```ke
 
 <!-- GETTING STARTED -->
 
+## Getting Started
+
 ### Prerequisites
 
 * pip
